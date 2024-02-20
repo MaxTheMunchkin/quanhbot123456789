@@ -1,0 +1,13 @@
+{
+    "OWNER_IDS": [
+      859012482554789909
+    ],
+    "name": "BOT-NAME",
+    "server": "https://discord.gg/gd5m7b8E",
+    "ch": "LOGS-CHANNEL",
+    "OpenAi": "Put-Your-OpenAI-API-Key-Here IF YOU HAVE",
+    "EXTENSIONS": ["cogs.events"],
+    "np": [
+      859012482554789909
+    ]
+}
